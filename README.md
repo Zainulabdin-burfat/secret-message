@@ -2,7 +2,7 @@
 
 1. Clone the repository into a new directory using the following command:
    ```
-   git clone --branch main https://github.com/zainulabdain-burfat/message.git
+   git clone --branch main https://github.com/zainulabdain-burfat/secret-message.git
    ```
 2. Navigate to the project's root directory:
     ```
