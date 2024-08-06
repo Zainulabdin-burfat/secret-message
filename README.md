@@ -20,7 +20,7 @@
     ```
     docker exec -it message-app /bin/bash
     ```
-6. Once inside the application container, run the following commands to install dependencies, generate keys, and run database migrations and seeders:
+6. Once inside the application container, run the following commands to install dependencies, generate keys, and run database migrations:
     ```
     composer install
     php artisan key:generate

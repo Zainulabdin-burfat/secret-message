@@ -1,4 +1,4 @@
-FROM php:8.1-fpm
+FROM php:8.2-fpm
 
 # Install system dependencies
 RUN apt-get update && apt-get install -y git curl nano procps libpng-dev libonig-dev libxml2-dev libjpeg-dev libzip-dev zip unzip
