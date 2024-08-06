@@ -6,7 +6,7 @@
    ```
 2. Navigate to the project's root directory:
     ```
-    cd message
+    cd secret-message
     ```
 3. Create a `.env` file by copying the `.env.example` file with the following command:
     ```
